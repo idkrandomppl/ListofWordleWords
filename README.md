@@ -1,5 +1,5 @@
 # ListofWordleWords
-This is a list of every single last wordle word. It will be updated daily.
+This is a list of every single last wordle word. It will be updated daily. If you want a different list, here it is: https://www.wordunscrambler.net/word-list/wordle-word-list
 1. Covey
 2.
 3.
