@@ -16,12 +16,3 @@ This is a list of every single last wordle word. It will be updated daily. If yo
 14.Stale
 15.Croup
 16.Giddy
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
